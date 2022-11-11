@@ -1,0 +1,8 @@
+body{
+    background:local;
+    background-image: url(tim.gif);
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
