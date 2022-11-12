@@ -1,6 +1,7 @@
 body{
-    background:local;
+    background:fixed;
     background-image: url(giphy.gif);
+    background-size: 100px;
     height: fit-content;
     display: flex;
     justify-content: center;
